@@ -1,0 +1,23 @@
+{
+  "name": "slack-dribbble-integration",
+  "version": "1.0.0",
+  "description": "An integration for Slack that allows users to introduce Dribbble images into Slack, as well as interact with them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsumpster/slack-dribbble.git"
+  },
+  "keywords": [
+    "slack",
+    "dribbble"
+  ],
+  "author": "George Sumpster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsumpster/slack-dribbble/issues"
+  },
+  "homepage": "https://github.com/gsumpster/slack-dribbble#readme"
+}
